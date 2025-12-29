@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "HandsOnProject",
+      "path": "./HandsOnProject"
+    }
+  ],
+  "settings": {
+    "terminal.integrated.env.windows": {
+      "PATH": "C:\\Users\\PawanGurjar\\.azurelogicapps\\dependencies\\DotNetSDK;${env:PATH}"
+    },
+    "omnisharp.dotNetCliPaths": [
+      "C:\\Users\\PawanGurjar\\.azurelogicapps\\dependencies\\DotNetSDK"
+    ]
+  }
+}
