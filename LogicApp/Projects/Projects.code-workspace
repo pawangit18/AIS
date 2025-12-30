@@ -11,6 +11,7 @@
     },
     "omnisharp.dotNetCliPaths": [
       "C:\\Users\\PawanGurjar\\.azurelogicapps\\dependencies\\DotNetSDK"
-    ]
+    ],
+    "azurite.location": "C:\\Users\\PawanGurjar\\.azurelogicapps\\.azurite"
   }
 }
