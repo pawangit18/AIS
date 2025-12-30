@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "TestProject",
+      "path": "./TestProject"
+    }
+  ],
+  "settings": {
+    "terminal.integrated.env.windows": {
+      "PATH": "C:\\Users\\PawanGurjar\\.azurelogicapps\\dependencies\\DotNetSDK;${env:PATH}"
+    },
+    "omnisharp.dotNetCliPaths": [
+      "C:\\Users\\PawanGurjar\\.azurelogicapps\\dependencies\\DotNetSDK"
+    ]
+  }
+}
