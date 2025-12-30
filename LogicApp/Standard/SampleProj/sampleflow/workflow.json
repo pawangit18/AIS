@@ -10,6 +10,17 @@
                     "statusCode": 200,
                     "body": "@triggerBody()"
                 },
+                "runAfter": {
+                    "Compose": [
+                        "SUCCEEDED"
+                    ]
+                }
+            },
+            "Compose": {
+                "type": "Compose",
+                "inputs": {
+                    "Name": "test name"
+                },
                 "runAfter": {}
             }
         },
