@@ -8,7 +8,7 @@
                 "kind": "Http",
                 "inputs": {
                     "statusCode": 200,
-                    "body": "@triggerBody()"
+                    "body": "@outputs('Compose')"
                 },
                 "runAfter": {
                     "Compose": [
@@ -19,7 +19,7 @@
             "Compose": {
                 "type": "Compose",
                 "inputs": {
-                    "Name": "test name has been updated"
+                    "Name": "test name has been updated again for testing"
                 },
                 "runAfter": {}
             }
