@@ -19,7 +19,7 @@
             "Compose": {
                 "type": "Compose",
                 "inputs": {
-                    "Name": "test name has been updated again for testing"
+                    "Name": "this is new update from new workspace"
                 },
                 "runAfter": {}
             }
