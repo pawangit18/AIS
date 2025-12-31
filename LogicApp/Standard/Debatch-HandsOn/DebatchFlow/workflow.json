@@ -19,7 +19,7 @@
             "Compose": {
                 "type": "Compose",
                 "inputs": {
-                    "Name": "this is new debatch project updated again one more time"
+                    "Name": "debatch project updated again one more time"
                 },
                 "runAfter": {}
             }
