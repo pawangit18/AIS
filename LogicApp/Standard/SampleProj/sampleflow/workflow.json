@@ -19,7 +19,7 @@
             "Compose": {
                 "type": "Compose",
                 "inputs": {
-                    "Name": "test name"
+                    "Name": "test name has been updated"
                 },
                 "runAfter": {}
             }
